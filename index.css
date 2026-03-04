@@ -12,5 +12,5 @@ padding:12px; }
 a.footer-link:focus { outline:2px solid #F5A3A3; }
 a.footer-link:hover { color:#fff; background:#F5A3A3; }
 a[href^="http"] { color:#F5A3A3; }
-/*a[href^="http"]::before {content: "}
-*/
+a[href^="http"]::before {content: "}
+/**/
